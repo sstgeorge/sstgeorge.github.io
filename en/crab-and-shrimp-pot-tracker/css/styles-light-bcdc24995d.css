@@ -594,6 +594,7 @@ input[type=checkbox] {
     width: 2.5rem;
     height: 2.5rem;
     margin-right:10px
+    margin-top:5px
 }
 
 .navbar-custom .navbar-brand.logo-text {
