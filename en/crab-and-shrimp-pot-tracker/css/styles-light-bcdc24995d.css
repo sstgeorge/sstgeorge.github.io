@@ -1565,7 +1565,7 @@ a:hover.back-to-top {
     }
 
     .navbar-custom.top-nav-collapse {
-        padding: .5rem 1.5rem .5rem 2rem;
+        padding: 1rem 1.5rem .5rem 2rem;
         box-shadow: 0 .0625rem .375rem 0 rgba(0, 0, 0, .1);
         background-color:#fff
     }
