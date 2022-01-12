@@ -593,7 +593,9 @@ input[type=checkbox] {
 .navbar-custom .navbar-brand.logo-image img {
     width: 2.5rem;
     height: 2.5rem;
-    margin-right:10px
+    margin-right:10px;
+    position:fixed;
+    top:9px
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -733,7 +735,7 @@ input[type=checkbox] {
     padding-top: 2.75rem;
     padding-bottom: 2.75rem;
     border-radius: .5rem;
-    background-color:#f7fcfd
+    Background-color:#78A9E4;
 }
 
 .cards-1 {
